@@ -1,4 +1,4 @@
 # news-project
-Film news website project, a prototype.
+This is a back end code for the film news website project, a prototype.
 Java SpringBoot
  
